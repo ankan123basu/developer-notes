@@ -4,6 +4,8 @@ A collection of concise software development notes and references.
 
 ## Development Resources
 
+- [SDE Intern Playbook (Prosperr.io & Fintech Engineering)](SDE_INTERN_GUIDE.md) — Essential guidelines for engineering excellence, codebase navigation, domain knowledge, and communication.
+
 A concise collection of notes, references, and useful resources for software development.
 
 ## Project Structure
