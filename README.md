@@ -9,3 +9,7 @@ A concise collection of notes, references, and useful resources for software dev
 ## Project Structure
 
 Documentation is organized by topic to make development references easier to navigate.
+
+## Contribution Guidelines
+
+Contributions should be focused, clearly documented, and easy to review.
